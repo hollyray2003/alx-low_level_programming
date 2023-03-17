@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * This is a programming
- * by hollyray to print a string.
- *
+ * main- Entry point
+ * 
+ *Return: always 0
  */
 int main(void)
 {
