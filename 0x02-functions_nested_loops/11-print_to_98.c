@@ -4,6 +4,8 @@
 /**
  * print_to_98 - Main Function
  *
+ * @n: number iterations
+ *
  * Return: Integer
  */
 
