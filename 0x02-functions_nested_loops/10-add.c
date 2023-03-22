@@ -1,7 +1,8 @@
 #include "main.h"
 /**
  * add - Function
- * @a and @b - the two variable
+ * @a - First Variable
+ * @b - the second variable
  *
  * Return: sums up the two variables @a and @b
  */
