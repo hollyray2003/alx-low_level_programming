@@ -10,6 +10,11 @@ int _isupper(int c);
  * _isupper - function to print uppercase alphabet
  *
  */
+int _isdigit(int c);
+/**
+ *  _isdigit - function checks to print digit
+ *
+ */
 void print_alphabet(void);
 /**
  * print_alphabet_x10 - prints alphabet 10 times
