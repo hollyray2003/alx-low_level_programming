@@ -20,4 +20,10 @@ int mul(int a, int b);
  * mul(int a, int b) - Function multiplies two integers
  *
  */
+void print_numbers(void);
+/**
+ * print_numbers - function that prints numbers
+ *
+ */
+int _putchar(int c);
 #endif
