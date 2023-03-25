@@ -26,4 +26,8 @@ void print_numbers(void);
  *
  */
 int _putchar(int c);
+/**
+ * _putchar - function prints a specific number
+ *
+ */
 #endif
