@@ -25,6 +25,11 @@ void print_numbers(void);
  * print_numbers - function that prints numbers
  *
  */
+void print_most_numbers(void);
+/**
+ * print_most_numbers -function that prints most numbers
+ *
+ */
 int _putchar(int c);
 /**
  * _putchar - function prints a specific number
