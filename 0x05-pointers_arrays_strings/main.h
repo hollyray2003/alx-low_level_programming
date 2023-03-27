@@ -41,4 +41,9 @@ void print_rev(char *s);
  * print_rev - prints reverse
  *
  */
+void rev_string(char *s);
+/**
+ * rev_string - function reverses a string
+ *
+ */
 #endif
