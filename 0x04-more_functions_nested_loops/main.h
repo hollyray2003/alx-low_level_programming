@@ -35,4 +35,10 @@ int _putchar(int c);
  * _putchar - function prints a specific number
  *
  */
+void more_numbers(void);
+/**
+ *
+ * more_numbers - function to print more numbers
+ *
+ */
 #endif
