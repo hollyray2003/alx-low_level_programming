@@ -41,4 +41,10 @@ void more_numbers(void);
  * more_numbers - function to print more numbers
  *
  */
+void print_line(int n);
+/**
+ *
+ * print_line - function to print lines
+ *
+ */
 #endif
