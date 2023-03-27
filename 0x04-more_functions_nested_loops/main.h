@@ -53,4 +53,10 @@ void print_diagonal(int n);
  * print_diagonal
  *
  */
+void print_square(int size);
+/**
+ *
+ * print_square - function to print square
+ *
+ */
 #endif
