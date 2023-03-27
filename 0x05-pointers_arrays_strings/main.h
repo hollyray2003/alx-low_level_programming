@@ -46,4 +46,9 @@ void rev_string(char *s);
  * rev_string - function reverses a string
  *
  */
+void puts2(char *str);
+/**
+ * puts2 - function prints every other character
+ *
+ */
 #endif
