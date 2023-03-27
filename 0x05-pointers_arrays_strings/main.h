@@ -15,4 +15,9 @@ void swap_int(int *a, int *b);
  * swap_int - function to swap two integers
  *
  */
+int _strlen(char *s);
+/**
+ * _strlen - function returns length of a string
+ *
+ */
 #endif
