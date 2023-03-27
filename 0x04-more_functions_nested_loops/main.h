@@ -59,4 +59,10 @@ void print_square(int size);
  * print_square - function to print square
  *
  */
+void print_triangle(int size);
+/**
+ *
+ * print_triangle - function to print triangle
+ *
+ */
 #endif
