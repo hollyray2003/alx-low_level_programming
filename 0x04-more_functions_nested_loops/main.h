@@ -65,4 +65,10 @@ void print_triangle(int size);
  * print_triangle - function to print triangle
  *
  */
+void print_number(int n);
+/**
+ *
+ * print_number - funtion to print integers
+ *
+ */
 #endif
