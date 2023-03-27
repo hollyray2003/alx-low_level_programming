@@ -35,4 +35,10 @@ void _puts(char *str);
  * _puts - function to print a string folowed by new line
  *
  */
+void print_rev(char *s);
+/**
+ *
+ * print_rev - prints reverse
+ *
+ */
 #endif
