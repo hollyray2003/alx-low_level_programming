@@ -47,4 +47,10 @@ void print_line(int n);
  * print_line - function to print lines
  *
  */
+void print_diagonal(int n);
+/**
+ *
+ * print_diagonal
+ *
+ */
 #endif
