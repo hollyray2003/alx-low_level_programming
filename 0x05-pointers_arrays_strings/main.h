@@ -56,4 +56,9 @@ void puts_half(char *str);
  * puts_half - function to print half
  *
  */
+void print_array(int *a, int n);
+/**
+ * print_array - fiunction to print array
+ *
+ */
 #endif
