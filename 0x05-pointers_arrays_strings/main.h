@@ -66,4 +66,9 @@ char *_strcpy(char *dest, char *src);
  * *_strcpy - function to copy strings
  *
  */
+int _atoi(char *s);
+/**
+ * _atoi - function to convert string to integer
+ *
+ */
 #endif
