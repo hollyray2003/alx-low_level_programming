@@ -61,4 +61,9 @@ void print_array(int *a, int n);
  * print_array - fiunction to print array
  *
  */
+char *_strcpy(char *dest, char *src);
+/**
+ * *_strcpy - function to copy strings
+ *
+ */
 #endif
