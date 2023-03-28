@@ -51,4 +51,9 @@ void puts2(char *str);
  * puts2 - function prints every other character
  *
  */
+void puts_half(char *str);
+/**
+ * puts_half - function to print half
+ *
+ */
 #endif
