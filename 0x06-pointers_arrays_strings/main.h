@@ -20,4 +20,10 @@ char *_strcat(char *dest, char *src);
  * *_strcat - function that concatenates two strings
  *
  */
+char *_strncat(char *dest, char *src, int n);
+/**
+ *
+ * *_strncat - function to concate n bytye
+ *
+ */
 #endif
