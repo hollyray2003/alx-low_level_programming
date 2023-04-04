@@ -26,6 +26,7 @@ char *_strchr(char *s, char c);
  * @*s: member variable
  * @*c: member variable
  */
+unsigned int _strspn(char *s, char *accept);
 
 #endif
 
