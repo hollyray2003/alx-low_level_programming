@@ -13,6 +13,13 @@ char *_memset(char *s, char b, unsigned int n);
  * @*n: member
  *
  */
+char *_memcpy(char *dest, char *src, unsigned int n);
+/**
+ * *_memcpy - function
+ * @*dest: member of memory destination
+ * @*src: member source memory
+ * @*n: member number of times
+ */
 
 #endif
 
