@@ -20,6 +20,12 @@ char *_memcpy(char *dest, char *src, unsigned int n);
  * @*src: member source memory
  * @*n: member number of times
  */
+char *_strchr(char *s, char c);
+/**
+ * *_strchr - function
+ * @*s: member variable
+ * @*c: member variable
+ */
 
 #endif
 
