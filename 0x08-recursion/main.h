@@ -13,5 +13,14 @@ void _puts_recursion(char *s);
  * @*s: The is an argument or member
  *
  */
+/**
+ *
+ * pardon me henceforth to save time
+ * i will minimize my comments
+ * to the bearest minimun
+ * except if necessary
+ *
+ */
 int _putchar(char c);
+void _print_rev_recursion(char *s);
 #endif
