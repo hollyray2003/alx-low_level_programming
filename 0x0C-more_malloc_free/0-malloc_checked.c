@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * malloc_checked - checks malloc
+ * malloc_checked - function malloc
  * @b: integer to check?
  * Return: a pointer or void
  */

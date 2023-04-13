@@ -1,7 +1,8 @@
 #ifndef _MAIN_H
 #define _MAIN_H
 /**
- * *string_nconcat - function to concatenate strings
+ * *string_nconcat - function to concat
+ * enate strings
  * @*s1: Mmeber string 1
  * @*s2: member string 2
  * @n: number
