@@ -4,13 +4,14 @@
 /**
  * malloc_checked - function malloc
  * @b: integer to check?
+ * @mem: variable
  * Return: a pointer or void
  */
 void *malloc_checked(unsigned int b)
 {
-	int *t = malloc(b);
-	if (t == 0)
+	int *mem = malloc(b);
+	if (mem == 0)
 		exit(98);
 
-	return (t);
+	return (mem);
 }
