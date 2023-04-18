@@ -13,6 +13,13 @@ char *create_array(unsigned int size, char c);
  * @str: string to go to words
  * Return: returns char
  */
+/**
+ * strdup - function string
+ * @str: string arguement
+ * Retun: returns
+ *
+ */
+char *_strdup(char *str);
 char **strtow(char *str);
 /**
  * argstostr - function args to strings
