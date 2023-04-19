@@ -1,5 +1,5 @@
-#ifndef _MAIN_H_
-#define _MAIN_H_
+#ifndef MAIN_H_
+#define MAIN_H_
 /**
  * print_name - Function to print name
  * @*name: argument pointer for Name
