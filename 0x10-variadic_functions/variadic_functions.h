@@ -15,6 +15,5 @@ typedef struct format
 {
 	char *op;
 	void (*f)(va_list all);
-} 
-f;
+}f;
 #endif
