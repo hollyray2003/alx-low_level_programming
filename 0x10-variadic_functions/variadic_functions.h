@@ -3,17 +3,4 @@
 #include <stdarg.h>
 
 int sum_them_all(const unsigned int n, ...);
-
-/**
- * struct format - Data type of a format.
- * @op: Format.
- * @f: Function.
- *
- */
-
-typedef struct format
-{
-	char *op;
-	void (*f)(va_list all);
-}f;
 #endif
