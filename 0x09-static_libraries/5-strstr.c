@@ -1,4 +1,3 @@
-#!/bin/bash
 #include "main.h"
 /**
  * _strstr - function to locate substring

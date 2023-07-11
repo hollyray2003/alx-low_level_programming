@@ -1,4 +1,3 @@
-#!/bin/bash
 /**
  * _memset - to fill block of memory
  * @s: address member
