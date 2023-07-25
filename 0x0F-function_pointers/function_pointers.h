@@ -1,5 +1,6 @@
 #ifndef FUNCTION_POINTERS_H_
 #define FUNCTION_POINTERS_H_
+#include <stddef.h>
 /**
  * print_name - Function to print name
  * @*name: argument pointer for Name
